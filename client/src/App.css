@@ -1,0 +1,59 @@
+.add_btn{
+  text-align: right;
+}
+
+.heading {
+  background-color: rgb(250, 75, 62);
+  color: #fff;
+}
+
+.icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: rgb(250, 75, 62);
+  margin: 0 25% 0 25%;
+}
+
+.btn2 {
+  color: #000;
+  background-color: #fff;
+  border: none;
+  font-weight: 500;
+}
+
+.btn2:hover {
+  color: #fff;
+  background-color: rgb(250, 75, 62);
+  border-radius: 3px;
+}
+
+i {
+  color: rgb(250, 75, 62);
+  cursor: pointer;
+}
+
+.text {
+  text-align: center;
+}
+
+.left_view p {
+  font-weight: 600;
+}
+
+.left_view span {
+  font-weight: 400;
+}
+
+.cty {
+  margin-top: 70px;
+}
+
+
+.right_view p {
+  font-weight: 600;
+}
+
+.right_view span {
+  font-weight: 400;
+}
